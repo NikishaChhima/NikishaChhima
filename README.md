@@ -8,7 +8,7 @@
   - [Photography Database and Operating System (Online Booking)](https://github.com/NikishaChhima/Photography_Database_and_Operating_System/tree/main)
 
 - <b>Computing Technology in Society - Group Project (HTML/CSS) </b>
-  - [Coding a website?](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Autonomous Industrial Drones Research Webiste](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 <h2>📊 Data Scientist Projects</h2>
 
