@@ -4,7 +4,7 @@
 - <b>Programming Design and Contruction (Java, SQL)</b>
   - [Ticketing System using Java and SQL](https://github.com/NikishaChhima/Ticketing_GUI_System_Java_SQL)
 
-- <b>Database System Design - Paired Assignment (Oracle SQL Developer, Visual Paradigm CE version)</b>
+- <b>Database System Design - Paired Assignment (SQL, Entity Relationship Diagram (ERD))</b>
   - [Photography Database and Operating System (Online Booking)](https://github.com/NikishaChhima/Photography_Database_and_Operating_System/tree/main)
 
 - <b>Computing Technology in Society - Group Project (HTML/CSS) </b>
