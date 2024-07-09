@@ -2,7 +2,7 @@
 <h2>👩🏽‍💻 Software Development Projects:</h2>
 
 - <b>Programming Design and Contruction (Java, SQL)</b>
-  - [Ticketing System using Java and SQL](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ticketing System using Java and SQL](https://github.com/NikishaChhima/Ticketing_GUI_System_Java_SQL)
 
 - <b>Database System Design (Oracle SQL Developer, Visual Paradigm CE version)</b>
   - [Photography Database and Operating System (Online Booking)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
