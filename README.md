@@ -16,8 +16,7 @@
   - [Data Exploration and Classification](https://github.com/NikishaChhima/Data_Exploration_and_Classification/tree/main)
 
 - <b>Statistics for Data Science (Statistics, R/RStudio)</b>
-  - [Statistics using R](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  
+  - [Statistics using R](https://github.com/NikishaChhima/Statistics_using_R/tree/main)
 <h2>🙋🏽‍♀️ Contact me:</h2>
 
 [<img align="left" alt="NikishaChhima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
