@@ -13,7 +13,7 @@
 <h2>📊 Data Scientist Projects</h2>
 
 - <b>Foundations of Data Science (Python)</b>
-  - [Data Exploration and Classification](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Exploration and Classification](https://github.com/NikishaChhima/Data_Exploration_and_Classification/tree/main)
 
 - <b>Statistics for Data Science (Statistics, R/RStudio)</b>
   - [Statistics using R](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
