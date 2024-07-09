@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, my name is Nikisha!</h1>
+<h2>👩🏽‍💻 Software Development Projects:</h2>
 
-<!--
-**NikishaChhima/NikishaChhima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Programming Design and Contruction (Java, SQL)</b>
+  - [Ticketing System using Java and SQL](https://github.com/joshmadakor1/Algorithms-Practice)
 
-Here are some ideas to get you started:
+- <b>Database System Design (Oracle SQL Developer, Visual Paradigm CE version)</b>
+  - [Photography Database and Operating System (Online Booking)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Computing Technology in Society Group Project (HTML/CSS) </b>
+  - [Coding a website?](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+    
+<h2>📊 Data Scientist Projects</h2>
+
+- <b>Foundations of Data Science (Python)</b>
+  - [Data Exploration and Classification](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Statistics for Data Science (Statistics, R/RStudio)</b>
+  - [Statistics using R](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  
+<h2>🙋🏽‍♀️ Contact me:</h2>
+
+[<img align="left" alt="NikishaChhima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/NikishaChhima
