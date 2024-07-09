@@ -5,7 +5,7 @@
   - [Ticketing System using Java and SQL](https://github.com/NikishaChhima/Ticketing_GUI_System_Java_SQL)
 
 - <b>Database System Design (Oracle SQL Developer, Visual Paradigm CE version)</b>
-  - [Photography Database and Operating System (Online Booking)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Photography Database and Operating System (Online Booking)](https://github.com/NikishaChhima/Photography_Database_and_Operating_System/tree/main)
 
 - <b>Computing Technology in Society Group Project (HTML/CSS) </b>
   - [Coding a website?](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
