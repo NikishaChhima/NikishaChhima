@@ -1,4 +1,4 @@
-<h1>Hi, my name is Nikisha!</h1>
+<h1>Welcome to my portfolio!</h1>
 <h2>👩🏽‍💻 Software Development Projects:</h2>
 
 - <b>Programming Design and Contruction (Java, SQL)</b>
