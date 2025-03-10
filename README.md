@@ -1,7 +1,7 @@
 <h1>Welcome to my portfolio!</h1>
 <h2>👩🏽‍💻 Software Development Projects:</h2>
 
-- <b>Software Development Practice (JavaScript, React/React Native, Node.js)</b>
+- <b>Software Development Practice - Group Project (JavaScript, React/React Native, Node.js)</b>
   - [WatchItOrReadIt IOS Mobile App](https://github.com/NikishaChhima/WatchItOrReadIt_IOS_Mobile_App)
 
 - <b>Programming Design and Contruction (Java, SQL)</b>
