@@ -20,6 +20,10 @@
 
 - <b>Statistics for Data Science (Statistics, R/RStudio)</b>
   - [Statistics using R](https://github.com/NikishaChhima/Statistics_using_R/tree/main)
+ 
+- <b>Forecasting (Statistics, R/RStudio)</b>
+  - [Forecasting Methods Performed on Dataset](https://github.com/NikishaChhima/Forecasting_Methods_Performed_on_Dataset/tree/main)
+
 <!--<h2>🙋🏽‍♀️ Contact me:</h2>-->
 <!--[<img align="left" alt="NikishaChhima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]-->
 <!--[linkedin][linkedin]: https://linkedin.com/in/NikishaChhima-->
