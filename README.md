@@ -10,9 +10,6 @@
 - <b>Database System Design - Paired Assignment (SQL, Entity Relationship Diagram (ERD))</b>
   - [Photography Database and Operating System (Online Booking)](https://github.com/NikishaChhima/Photography_Database_and_Operating_System/tree/main)
 
-- <b>Computing Technology in Society - Group Project (HTML/CSS) </b>
-  - [Autonomous Industrial Drones Research Website](https://github.com/NikishaChhima/Autonomous_Industrial_Drones_Research_Website/tree/main)
-    
 <h2>📊 Data Scientist Projects</h2>
 
 - <b>Foundations of Data Science (Python)</b>
