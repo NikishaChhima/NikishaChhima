@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hi, I’m Nikisha Chhima and below is a selection of my projects, showcasing work in data analysis, statistics, forecasting, and software development.
+Hi, I’m Nikisha Chhima and below is a selection of my projects/assignments, showcasing work in data analysis, statistics, forecasting, and software development.
 
 ---
 
