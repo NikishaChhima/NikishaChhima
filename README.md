@@ -1,26 +1,41 @@
-<h1>Welcome to my portfolio!</h1>
-<h2>👩🏽‍💻 Software Development Projects:</h2>
+# Welcome to My Portfolio
 
-- <b>Software Development Practice - Group Project (JavaScript, React/React Native, Node.js)</b>
-  - [WatchItOrReadIt IOS Mobile App](https://github.com/NikishaChhima/WatchItOrReadIt_IOS_Mobile_App)
+Hi, I’m Nikisha Chhima and below is a selection of my projects, showcasing work in data analysis, statistics, forecasting, and software development.
 
-- <b>Programming Design and Contruction (Java, SQL)</b>
-  - [Ticketing System using Java and SQL](https://github.com/NikishaChhima/Ticketing_GUI_System_Java_SQL)
+---
 
-- <b>Database System Design - Paired Assignment (SQL, Entity Relationship Diagram (ERD))</b>
-  - [Photography Database and Operating System (Online Booking)](https://github.com/NikishaChhima/Photography_Database_and_Operating_System/tree/main)
+## Data Science Projects
 
-<h2>📊 Data Scientist Projects</h2>
+### Foundations of Data Science (Python)
+- [Data Exploration and Classification](https://github.com/NikishaChhima/Data_Exploration_and_Classification/tree/main)  
+  Conducted exploratory data analysis and built classification models using Python.
 
-- <b>Foundations of Data Science (Python)</b>
-  - [Data Exploration and Classification](https://github.com/NikishaChhima/Data_Exploration_and_Classification/tree/main)
+### Statistics for Data Science (R/RStudio)
+- [Statistics using R](https://github.com/NikishaChhima/Statistics_using_R/tree/main)  
+  Applied statistical methods and visualizations to analyze real-world datasets.
 
-- <b>Statistics for Data Science (Statistics, R/RStudio)</b>
-  - [Statistics using R](https://github.com/NikishaChhima/Statistics_using_R/tree/main)
- 
-- <b>Forecasting (Statistics, R/RStudio)</b>
-  - [Forecasting Methods Performed on Dataset](https://github.com/NikishaChhima/Forecasting_Methods_Performed_on_Dataset/tree/main)
- 
-<!--<h2>🙋🏽‍♀️ Contact me:</h2>-->
-<!--[<img align="left" alt="NikishaChhima | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]-->
-<!--[linkedin][linkedin]: https://linkedin.com/in/NikishaChhima-->
+### Forecasting (R/RStudio)
+- [Forecasting Methods on Dataset](https://github.com/NikishaChhima/Forecasting_Methods_Performed_on_Dataset/tree/main)  
+  Implemented forecasting techniques to predict trends over time.
+
+---
+
+## Software Development Projects
+
+### Software Development Practice - Group Project (JavaScript, React/React Native, Node.js)
+- [WatchItOrReadIt iOS Mobile App](https://github.com/NikishaChhima/WatchItOrReadIt_IOS_Mobile_App)  
+  Developed a mobile app for media recommendations using React Native.
+
+### Programming Design and Construction (Java, SQL)
+- [Ticketing System using Java and SQL](https://github.com/NikishaChhima/Ticketing_GUI_System_Java_SQL)  
+  Built a GUI-based ticketing system integrating Java with SQL databases.
+
+### Database System Design - Paired Assignment (SQL, ERD)
+- [Photography Database and Booking System](https://github.com/NikishaChhima/Photography_Database_and_Operating_System/tree/main)  
+  Designed an entity-relationship diagram and implemented a database for online booking management.
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/NikishaChhima)
